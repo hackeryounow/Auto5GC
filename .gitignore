@@ -1,0 +1,10 @@
+# The upload/sync script itself, not tracked by version control
+sync_upload.sh
+sync_push.sh
+
+# Common temporary files that should not be uploaded
+*.log
+*.swp
+*.swo
+*~
+.DS_Store
