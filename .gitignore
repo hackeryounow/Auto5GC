@@ -8,3 +8,4 @@ sync_push.sh
 *.swo
 *~
 .DS_Store
+src
